@@ -7,8 +7,7 @@
 - 简历/JD 技能关键词提取
 - 匹配分、技能缺口、投递优先级
 - Markdown + JSON 报告
-- Linear/Open Design 风格暗色 Web UI
-- 无复杂依赖，Python 标准库优先
+- Web UI 使用 [`nexu-io/open-design`](https://github.com/nexu-io/open-design) 的 xAI design system token：`open-design/x-ai-tokens.css`
 - Docker Compose 一键部署
 
 ## Local Run
