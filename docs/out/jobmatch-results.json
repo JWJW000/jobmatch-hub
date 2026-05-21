@@ -1,0 +1,98 @@
+[
+  {
+    "job_id": "2",
+    "title": "Backend Infrastructure Engineer",
+    "company": "Atlas Commerce",
+    "location": "Hangzhou",
+    "score": 92,
+    "priority": "P0 - 今天定制投递",
+    "matched_skills": [
+      "Java",
+      "Kafka",
+      "MySQL",
+      "Nginx",
+      "Redis",
+      "Spring Boot"
+    ],
+    "missing_skills": [],
+    "experience_matches": [
+      "production"
+    ],
+    "domain_matches": [
+      "ecommerce"
+    ],
+    "bonus_matches": [
+      "performance"
+    ],
+    "pitch": "你好，我对 Atlas Commerce 的 Backend Infrastructure Engineer 很感兴趣。我的经历覆盖 Java、Kafka、MySQL、Nginx、Redis，并具备 ecommerce 相关经验，与岗位要求的匹配度约为 92 分。岗位关键技能与我的经历高度重合。希望有机会进一步沟通我如何在入职后快速交付。",
+    "resume_advice": [
+      "在简历摘要前两屏突出 Java, Kafka, MySQL, Nginx, Redis, Spring Boot，并绑定可量化项目结果。",
+      "将 ecommerce 场景写成 STAR 案例，贴合 Atlas Commerce 的业务语境。",
+      "把 performance 作为加分项放到项目结尾，强化 senior 信号。"
+    ]
+  },
+  {
+    "job_id": "1",
+    "title": "Senior Java Platform Engineer",
+    "company": "Northstar AI",
+    "location": "Remote",
+    "score": 83,
+    "priority": "P0 - 今天定制投递",
+    "matched_skills": [
+      "CI/CD",
+      "Docker",
+      "Java",
+      "LLM",
+      "PostgreSQL",
+      "Prometheus",
+      "RAG",
+      "Redis",
+      "Spring Boot"
+    ],
+    "missing_skills": [
+      "Kubernetes"
+    ],
+    "experience_matches": [
+      "production",
+      "senior"
+    ],
+    "domain_matches": [
+      "ai",
+      "platform"
+    ],
+    "bonus_matches": [],
+    "pitch": "你好，我对 Northstar AI 的 Senior Java Platform Engineer 很感兴趣。我的经历覆盖 CI/CD、Docker、Java、LLM、PostgreSQL，并具备 ai、platform 相关经验，与岗位要求的匹配度约为 83 分。我也注意到岗位强调 Kubernetes，目前正在用项目方式补齐。希望有机会进一步沟通我如何在入职后快速交付。",
+    "resume_advice": [
+      "在简历摘要前两屏突出 CI/CD, Docker, Java, LLM, PostgreSQL, Prometheus，并绑定可量化项目结果。",
+      "补一个最小可展示项目覆盖 Kubernetes，避免只写“了解”。",
+      "将 ai, platform 场景写成 STAR 案例，贴合 Northstar AI 的业务语境。"
+    ]
+  },
+  {
+    "job_id": "3",
+    "title": "Frontend React Engineer",
+    "company": "Canvas Labs",
+    "location": "Shanghai",
+    "score": 28,
+    "priority": "P3 - 暂缓",
+    "matched_skills": [
+      "Docker"
+    ],
+    "missing_skills": [
+      "React",
+      "TypeScript",
+      "Vue"
+    ],
+    "experience_matches": [],
+    "domain_matches": [
+      "saas"
+    ],
+    "bonus_matches": [],
+    "pitch": "你好，我对 Canvas Labs 的 Frontend React Engineer 很感兴趣。我的经历覆盖 Docker，并具备 saas 相关经验，与岗位要求的匹配度约为 28 分。我也注意到岗位强调 React、TypeScript、Vue，目前正在用项目方式补齐。希望有机会进一步沟通我如何在入职后快速交付。",
+    "resume_advice": [
+      "在简历摘要前两屏突出 Docker，并绑定可量化项目结果。",
+      "补一个最小可展示项目覆盖 React, TypeScript, Vue，避免只写“了解”。",
+      "将 saas 场景写成 STAR 案例，贴合 Canvas Labs 的业务语境。"
+    ]
+  }
+]

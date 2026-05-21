@@ -1,0 +1,4 @@
+id,title,company,location,description
+1,Senior Java Platform Engineer,Northstar AI,Remote,"Build distributed Java Spring Boot services for an AI platform. Requires Redis, PostgreSQL, Docker, Kubernetes, Prometheus, CI/CD, LLM and RAG experience. Senior production ownership preferred."
+2,Backend Infrastructure Engineer,Atlas Commerce,Hangzhou,"Own ecommerce microservices using Java, Spring Boot, MySQL, Redis, Kafka, Nginx and Docker. Need high concurrency production experience, performance optimization and mentoring."
+3,Frontend React Engineer,Canvas Labs,Shanghai,"Build SaaS dashboards with React, TypeScript and Vue migration experience. Docker, API collaboration and design system experience are bonuses."
