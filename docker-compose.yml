@@ -1,0 +1,9 @@
+services:
+  jobmatch-hub:
+    build: .
+    container_name: jobmatch-hub
+    ports:
+      - "8788:8788"
+    volumes:
+      - ./docs/out:/app/docs/out
+    restart: unless-stopped
